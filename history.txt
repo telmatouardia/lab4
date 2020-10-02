@@ -1,0 +1,124 @@
+q
+a
+aa
+a
+aa
+sudo apt-get install vim
+sudo apt install libssl-dev bison flex
+sudo apt install qt5-default pkg-config
+ls
+*
+ls
+time
+ls
+time
+date
+ls
+date
+ls
+*
+ls
+cd Desktop/
+ls
+*
+ls
+sudo apt install git gitk git-email
+sudo apt install git gitk git-telmatouardia96@gmail.com
+sudo apt install git gitk git-email
+sudo reboot
+sudo apt git gitk git-email
+sudo apt install git gitk git-email
+git config--global user.ouardia
+git config--global user.name "ouardia"
+git config  --global user.name "ouardia"
+git config  --global user.email telmatouardia96@gmail.com
+git config  --global user.name
+git config  --global user.email 
+mkdir lab2
+touch lab2.txt
+cd lab2
+mkdir telmat.txt
+touch telmat.txt
+vi telmat.txt
+vim telmat.txt
+ls
+rm telmat.txt/
+rm -r telmat.txt/
+vim telmat.txt
+git init 
+git status
+git add
+git status 
+git add .
+git status
+git commit -m "hello M2 syscoms"
+git init lab2
+git status
+git add telmat
+git add lab2
+git commit -m "hello M2 syscoms"
+git remote add origin https://github.com/telmatouardia/lab2.git
+git push -u origin master
+git pull
+git colone https://github.com/telmatouardia/lab2.git
+git clone https://github.com/telmatouardia/lab2.git
+cd ..
+ks
+ls
+cd  Documents
+ls
+git clone https://github.com/telmatouardia/lab2.git
+ls
+git clone https://github.com/khachicha/5AS05-partie3.git
+ls -lrt
+ls
+ls -lrt
+cd lab3
+ls
+ls -lrt
+touch rapportlab3
+du Microsoft
+du -sh k Miscrosoft
+du -sh  Miscrosoft
+du -sh  Microsoft
+ls -lrt Microsoft
+stat Microsoft
+ls -d .*
+ls -r t
+ls -r
+ls -r T
+ls -rt
+ls -t
+ls  -r
+cat answerting-machine.txt
+cat answering-machine.txt
+ls  | more
+sudo apt install l'
+sudo apt install vim
+vim answering-machine.txt
+cd sardar3
+cd sardar3.txt
+cd sardar
+ls
+cd sardar3.txt
+tail -n 20 "stardar3.txt"
+tail -n 20 "sardar3.txt"
+cd ..
+ls
+git init
+git status
+git add .
+git status
+git commit -m "Lab3"
+git remote remove origin
+git remote add origin https://github.com/telmatouardia/lab3
+git push -u origin master
+git clone https://github.com/khachicha/5AS05-partie4
+history
+cd lab4
+mkdir rapport4.txt
+touch rapport4.txt
+touch history.txt
+history
+history -w ~/history.txt
+history -w history.txt

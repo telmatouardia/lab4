@@ -1,0 +1,9 @@
+1 git clone + le lien pour recuperer les source depuis le compte github
+2 history pour voir les commande qui sont ecrite dans le terminal
+3 history -w history.txt  pour souvegarder l'historique des commande du terminal 
+4 cat sardar/* > sardar_power.txt
+5 wc -w sardar_power.txt pour nombre de mots 
+   wc -l nombre de lignes
+    wc -c nbr de caracteres
+
+
